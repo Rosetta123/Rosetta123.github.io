@@ -1,5 +1,6 @@
 ## Welcome! I'm Yunxi~
-!(me.jpeg)
+![me.jpeg]
+
 I am Yunxi.
 I am double major in Statistics and Economics.
 I plan to apply for a graduate program in October and field in financial engineering or statistics.
@@ -20,7 +21,7 @@ As I mentioned above, I am learning R langauge right now.
 [Project 2](hw02.html)
 
 Me and my friends start to an independent reasearch recently and here is just a brief draft of our work:
-[Research](independent studyt.htm)
+[Research](independent studyt.pdf)
 
 
 
