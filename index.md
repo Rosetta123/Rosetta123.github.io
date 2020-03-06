@@ -19,7 +19,9 @@ Here are two projects I have done in STAT 385 and a independent study draft whic
 
 
 - [Project 1](hw01.html)
+<img src="photo2.png?raw=true"/>
 - [Project 2](hw02.html)
+<img src="photo1.png?raw=true"/>
 - [Independent Study](independent study.pdf)
 
 
