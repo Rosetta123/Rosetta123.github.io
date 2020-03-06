@@ -6,9 +6,10 @@ Welcome to my website! I am Yunxi and double major in Statistics and Economics. 
 
 ---
 ## Contact Me
-[github](https://github.com/Rosetta123)
-[Linkedin](https://www.linkedin.com/in/yunxichen/)
-[resume](resume.pdf) 
+
+- [GitHub](https://github.com/Rosetta123)
+- [Linkedin](https://www.linkedin.com/in/yunxichen/)
+- [Resume](resume.pdf) 
 
 ---
 ## Professional Blog
@@ -17,9 +18,9 @@ I just learned from my course STAT 385 which is a funny and usefull programming 
 Here are two projects I have done in STAT 385 and a independent study draft which I just start it with my friend foucsing on effects of COVID-19 of East-Asia economy.
 
 
-[Project 1](hw01.html)
-[Project 2](hw02.html)
-[Independent study](independent study.pdf)
+- [Project 1](hw01.html)
+- [Project 2](hw02.html)
+- [Independent Study](independent study.pdf)
 
 
 
