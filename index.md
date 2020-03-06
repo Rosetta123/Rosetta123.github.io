@@ -1,5 +1,5 @@
 ## Welcome! I'm Yunxi~
-![me.jpeg]
+![My photo](me.jpeg)
 
 I am Yunxi.
 I am double major in Statistics and Economics.
