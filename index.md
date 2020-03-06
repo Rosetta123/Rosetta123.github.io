@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome! I'm Yunxi~
+!(me.jpeg)
+I am Yunxi.
+I am double major in Statistics and Economics.
+I plan to apply for a graduate program in October and field in financial engineering or statistics.
+I like reading, watching movies, listening to music, travling and cooking.
+I love my family and miss them a lot!
 
-You can use the [editor on GitHub](https://github.com/Rosetta123/Rosetta123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Linkedin](https://www.linkedin.com/in/yunxichen/)
+[resume](resume.pdf) are also attached. Welcome to add me throungh Linkedin!
+I start to use [github](https://github.com/Rosetta123)recently and I will become a code guru gradually XD
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+As I mentioned above, I am learning R langauge right now.
 
-```markdown
-Syntax highlighted code block
+[Project 1](hw01.html)
+[Project 2](hw02.html)
 
-# Header 1
-## Header 2
-### Header 3
+Me and my friends start to an independent reasearch recently and here is just a brief draft of our work:
+[Research](independent studyt.htm)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rosetta123/Rosetta123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
