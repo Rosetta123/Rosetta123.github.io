@@ -13,9 +13,9 @@ Welcome to my website! I am Yunxi and double major in Statistics and Economics. 
 
 ---
 ## Professional Blog
-I just learned from my course STAT 385 which is a funny and usefull programming course teaching me R language, I am learning Tidyverse to do data analysis. By now I make a progress to use github and R language which I believe that some day I could be a code guru.
+I just learned from my course STAT 385 which is a funny and useful programming course teaching me R language, I am learning Tidyverse to do data analysis. By now I make a progress to use github and R language which I believe that some day I could be a code guru.
 
-Here are two projects I have done in STAT 385 and a independent study draft which I just start it with my friend foucsing on effects of COVID-19 of East-Asia economy.
+Here are two projects I have done in STAT 385 and a independent study draft which I just start it with my friends foucsing on effects of COVID-19 of East-Asia economy.
 
 
 - [Project 1](hw01.html)
